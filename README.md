@@ -157,7 +157,7 @@ O modelo atual apresenta:
 
 ---
 
-# 🔗 Acesse o Dashboard Interativo
+# 🔗 Acesse o Dashboard 
 
 [Visualizar Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiZDVhZjU5ZTktNjg0Ny00ZmMxLTk4MjAtMWUxNjBjZTkyZTUxIiwidCI6ImQ2MmVkZjk4LTJkNmYtNDBhOS05YTJhLWEwNmE4MmFlOTdlYyJ9)
 
